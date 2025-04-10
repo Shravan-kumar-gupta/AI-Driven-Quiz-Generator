@@ -21,7 +21,7 @@ This is a responsive Quiz App built with React on the frontend and Node.js on th
 git clone https://github.com/yourusername/ai-quiz-app.git
 
 # Navigate to frontend and install
-cd quix-app
+cd quiz-app
 npm install
 npm start
 
