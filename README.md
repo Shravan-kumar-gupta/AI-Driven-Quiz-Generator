@@ -18,7 +18,7 @@ This is a responsive Quiz App built with React on the frontend and Node.js on th
 ## 📦 How to Run Locally
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/ai-quiz-app.git
+git clone https://github.com/Shravan-kumar-gupta/AI-Driven-Quiz-Generator.git
 
 # Navigate to frontend and install
 cd quiz-app
