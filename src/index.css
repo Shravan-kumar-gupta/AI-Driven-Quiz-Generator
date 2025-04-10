@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #210F37;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: center;
+}
